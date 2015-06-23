@@ -1,0 +1,44 @@
+{
+  "name": "pm2-winweb",
+  "version": "0.1.1",
+  "description": "PM2 Web interface with windows support",
+  "main": "pm2-winweb.js",
+  "scripts": {
+    "test": "pm2-winweb"
+  },
+  "bin": {
+    "pm2-winweb": "pm2-winweb.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheCreatives/pm2-winweb"
+  },
+  "keywords": [
+    "PM2",
+    "pm2-winweb",
+    "webinterface",
+    "PM2 ui",
+    "PM2 monitor",
+    "manage",
+    "online",
+    "PM2 web",
+    "monitor",
+    "dashboard",
+    "PM2 interface",
+    "PM2 gui",
+    "PM2 dashboard",
+	"PM2 WIN WEB",
+	"PM2 WINDOWS MONITOR",
+	"PM2 WINDOWS"
+  ],
+  "dependencies": {
+    "express": "*",
+	"pm2": "*"
+  },
+  "author": "Laxmikant Dange",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/TheCreatives/pm2-winweb/issues"
+  },
+  "homepage": "https://github.com/TheCreatives/pm2-winweb"
+}

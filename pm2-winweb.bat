@@ -1,0 +1,1 @@
+pm2 start "%~dp0\index.js" %* --name pm2-winweb

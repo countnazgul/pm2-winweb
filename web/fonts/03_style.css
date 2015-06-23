@@ -1,0 +1,9 @@
+.charts{
+	width: 300px;
+    margin: 10px;
+    height: 200px;
+    float: right;
+}
+.charts .thumbnail{
+	min-height: 100%;
+}
